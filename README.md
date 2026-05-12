@@ -21,5 +21,5 @@ Your goal is to determine which combination of prompting technique + platform pr
 5.User experience
 
 OUTPUT:
-
+[EX-02.docx](https://github.com/user-attachments/files/27622960/EX-02.docx)
 RESULT:
