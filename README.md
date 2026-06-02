@@ -22,5 +22,7 @@ Your goal is to determine which combination of prompting technique + platform pr
 
 OUTPUT:
 [EX-02.docx](https://github.com/user-attachments/files/28498844/EX-02.docx)
+
+
 RESULT:
 The experiment was successfully conducted to evaluate different prompting techniques (Zero-shot, Few-shot, Chain-of-Thought, and Role-based Prompting) across multiple AI platforms for the task of summarizing a technical article on Blockchain Technology.
